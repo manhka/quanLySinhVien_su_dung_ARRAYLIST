@@ -1,0 +1,18 @@
+1:thông tin:
+- mã sinh viên
+-họ và tên
+-năm sinh
+-điểm trung bình
+2: yêu cầu
+-sử dụng array list.
+3: mục đích:
+
+- thêm
+-in sinh vien ra man hinh
+-kiểm tra ds có rỗng không
+-lấy ra số lượng sinh viên
+-làm rỗng danh sách sinh vviên
+-xóa 1 sinh viên
+-kiểm tra sinh viên cong trong ds không , dựa vào sinh viên
+-tìm kiếm sinh viên dựa vào tên
+-xuất ra ds sinh viên có điểm từ cao đến thấp
